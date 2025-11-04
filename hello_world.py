@@ -1,2 +1,2 @@
-Print("Hello from the development branch")
-Print("Hello World!")
+print("Hello from the development branch")
+print("Hello World!")
